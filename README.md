@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anupammaurya6767/AUV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupammaurya6767&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupammaurya6767&repo=AUV" />
 </a>
 <a href="https://github.com/anupammaurya6767/Kuki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupammaurya6767&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupammaurya6767&repo=Kuki" />
 </a>
