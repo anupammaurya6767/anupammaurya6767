@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Web Developer from India.
+### - I'm 19 years  old  Developer from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/1936.gif">
 
@@ -23,7 +23,7 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Cricke (Neighbourhood Professional XD)
+- ✨ Cricket (Neighbourhood Professional XD)
 
 </br>
 </br>
