@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anupammaurya6767/AUV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupammaurya6767&repo=AUV" />
 </a>
-<a href="https://github.com/anupammaurya6767/Animylase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anupammaurya6767&repo=Animylase" />
-</a>
+
