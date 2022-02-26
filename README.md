@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupammaurya6767&count_private=true)
 
-
-
-![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
