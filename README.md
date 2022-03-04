@@ -43,6 +43,8 @@
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" width="100" hight="50">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt=" C++" width="100" hight="50">
+
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" width="100" hight="50">
 </p>
