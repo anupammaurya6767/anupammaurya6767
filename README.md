@@ -105,9 +105,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&&show_icons=true&theme=radical"/>
   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupammaurya6767&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444" >
-  </a>
   </p>
 
 *************
