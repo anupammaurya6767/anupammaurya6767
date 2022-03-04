@@ -49,6 +49,8 @@
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt=" C++" width="32" hight="32">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="32" hight="32">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="32" hight="32">
+<img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/371265.svg" alt="Sass" width="32" hight="32">
+
 
 </br>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="CSS3" width="32" hight="32">
