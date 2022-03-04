@@ -7,7 +7,7 @@
 
 ### - I'm 19 years  old  Developer from India.
 
-<img hight="200" width="200" alt="GIF" align="right" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/1936.gif">
+<img hight="250" width="250" alt="GIF" align="right" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
