@@ -1,11 +1,5 @@
 # Yā 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
-
-</br>
-</br>
 </br>
 
 
@@ -13,7 +7,7 @@
 
 ### - I'm 19 years  old  Developer from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/1936.gif">
+<img hight="200" width="200" alt="GIF" align="right" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
