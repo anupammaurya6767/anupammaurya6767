@@ -64,7 +64,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/93195.gif">
+<img hight="280" width="280" align="right" alt="GIF" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/93195.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
