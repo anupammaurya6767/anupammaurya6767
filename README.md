@@ -37,17 +37,17 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" width="15" hight="15">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="15" hight="15">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="15" hight="15">
- <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="Javascript" width="15" hight="15">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" width="24" hight="24">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="24" hight="24">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="24" hight="24">
+ <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="Javascript" width="24" hight="24">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="15" hight="15">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="HTML5" width="15" hight="15">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt=" C++" width="15" hight="15">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="24" hight="24">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="HTML5" width="24" hight="24">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt=" C++" width="24" hight="24">
 
 </br>
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="CSS3" width="15" hight="15">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="CSS3" width="24" hight="24">
 </p>
 </br>
 </br>
