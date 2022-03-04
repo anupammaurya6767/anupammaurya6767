@@ -40,13 +40,14 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" width="180" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" width="270" hight="15">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+ <img src=" https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="Javascript" width="180" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" width="100" hight="50">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="HTML5" width="100" hight="50">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt=" C++" width="100" hight="50">
 
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS3" width="100" hight="50">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="CSS3" width="100" hight="50">
 </p>
 </br>
 </br>
