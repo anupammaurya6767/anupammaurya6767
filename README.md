@@ -44,12 +44,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="32" hight="32">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="32" hight="32">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="32" hight="32">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="HTML5" width="32" hight="32">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt=" C++" width="32" hight="32">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="32" hight="32">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="32" hight="32">
-<img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/371265.svg" alt="Sass" width="32" hight="32">
+<img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/371265.svg" alt="Opencv" width="32" hight="32">
 
 
 </br>
@@ -57,6 +56,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="Jquery" width="32" hight="32">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="32" hight="32">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="32" hight="32">
+<img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/Ros_logo.svg" alt="ROS Melodic" width="32" hight="32">
 </p>
 </br>
 </br>
