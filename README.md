@@ -11,6 +11,8 @@
 
 ### - I'm 19 years  old  Developer from India.
 
+<img alt="Night Coding" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/Night-Coding.gif" align="right"/>
+
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Machine Learning & AI
@@ -53,7 +55,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="64" hight="64"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="64" hight="64"> 
 <img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/Ros_logo.svg" alt="ROS Melodic" width="64" hight="64"> 
-<img alt="Night Coding" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/Night-Coding.gif" align="right"/>
 </p>
 
 </br>
