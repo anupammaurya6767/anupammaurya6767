@@ -66,7 +66,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 
-<p align="center" >  
+<p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&&show_icons=true&theme=radical"/>
   </a>
@@ -80,7 +80,7 @@
 
 <p align="left">
 <a href="https://www.noobkoda.me"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225"><img src="https://img.shields.io/badge/-Anupam%20Maurya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anupammaurya981@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/noob_koda"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
