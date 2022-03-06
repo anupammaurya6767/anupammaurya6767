@@ -30,7 +30,7 @@
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
-<p align="left">
+<p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="64" hight="64"> 
@@ -53,8 +53,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="64" hight="64"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="64" hight="64"> 
 <img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/Ros_logo.svg" alt="ROS Melodic" width="64" hight="64"> 
-</p>
 <img alt="Night Coding" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/Night-Coding.gif" align="right"/>
+</p>
+
 </br>
 </br>
 </br>
