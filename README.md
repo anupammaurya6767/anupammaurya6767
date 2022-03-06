@@ -63,7 +63,7 @@
 </br>
 </br>
 </br>
-
+<hr style="border:2px solid gray"> </hr>
 
 
 <p align="center" >  
@@ -78,7 +78,7 @@
   
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.noobkoda.me"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anupammaurya981@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
