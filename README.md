@@ -60,42 +60,6 @@
 </br>
 </br>
 </br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="280" width="280" align="right" alt="GIF" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:anupammaurya981@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="http://instagram.com/noob_koda?utm_source=qr">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" />
-</a>
-<a href="https://t.me/include_ap">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/telegram.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -107,5 +71,17 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img  src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&&show_icons=true&theme=radical"/>
   </a>
   </p>
+  
+  
+  
+  
+  
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="https://www.noobkoda.me"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:anupammaurya981@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/noob_koda"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 *************
