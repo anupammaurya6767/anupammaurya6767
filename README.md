@@ -47,6 +47,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="64" hight="64">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="64" hight="64">
 <img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/371265.svg" alt="Opencv" width="64" hight="64">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="64" hight="64">
 
 
 </br>
