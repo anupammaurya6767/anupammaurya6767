@@ -57,6 +57,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="64" hight="64"> 
 <img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/Ros_logo.svg" alt="ROS Melodic" width="64" hight="64"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="MarkDown" width="64" hight="64"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="64" hight="64"> 
 </p>
 
 </br>
