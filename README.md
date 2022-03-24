@@ -75,8 +75,6 @@
   </a>
   </p>
   
-  ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/anupammaurya6767/anupammaurya6767/output/github-contribution-grid-snake.svg)
   
   
   
