@@ -69,11 +69,11 @@
 <hr style="border:2px solid gray"> </hr>
 
 
-<p align="left" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+<div align="center">
+  <a href="https://github.com/anupammaurya6767">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupammaurya6767&layout=compact&langs_count=7&theme=city_lights"/>
+</div>
   
   
   
