@@ -74,9 +74,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupammaurya6767&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
-  
+  <div align="center">
  [![trophy](https://github-profile-trophy.vercel.app/?username=anupammaurya6767)](https://github.com/ryo-ma/github-profile-trophy) 
-  
+  </div>
   
 ### 🤝🏻 &nbsp;Connect with Me
 
