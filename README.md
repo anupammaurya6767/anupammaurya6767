@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href="https://github.com/anupammaurya6767">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita0802goswami&hide_border=true&theme=tokyonight" alt="harshita0802goswami" /> </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&hide_border=true&theme=tokyonight" alt="anupammaurya6767" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupammaurya6767&hide_border=true&theme=tokyonight" alt="anupammaurya6767" /> </p>
     <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=anupammaurya6767&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="anupammaurya6767" /> </p>
 <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupammaurya6767&layout=compact&langs_count=7&theme=city_lights"/>
