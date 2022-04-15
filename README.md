@@ -1,5 +1,4 @@
 # Yā 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupammaurya6767&label=Profile%20views&color=0e75b6&style=flat" alt="anupammaurya6767" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Noob%2C%20Things!%22);print(%22Noob%2C%20Developer!%22);printf(%22Noob%2C%20Koda!%22);cout%20%3C%3C%20%22Noob%2C%20Koda!%22&center=true&size=27&width=550">
