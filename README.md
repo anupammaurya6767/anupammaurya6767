@@ -71,13 +71,18 @@
 
 <div align="center">
   <a href="https://github.com/anupammaurya6767">
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&hide_border=true&theme=tokyonight" alt="anupammaurya6767" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupammaurya6767&hide_border=true&theme=tokyonight" alt="anupammaurya6767" /> </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&hide_border=true&theme=" alt="anupammaurya6767" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupammaurya6767&hide_border=true&theme=" alt="anupammaurya6767" /> </p>
     <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=anupammaurya6767&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="anupammaurya6767" /> </p>
 <br>
-  <p align="center"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupammaurya6767&layout=compact&langs_count=7&theme=city_lights"/>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupammaurya6767" alt="anupammaurya6767" /></a> </p>
+  <p align="center"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupammaurya6767&layout=compact&langs_count=7&theme=city_lights"/>&nbsp; </p>
 </div>
   </br>
   </br>
+  <h1 align="center">My Trophies 😁</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugeshraghav" alt="jugeshraghav"/></a> </p>
+
+</br>
+</br>
   <div>
      
   </div>
