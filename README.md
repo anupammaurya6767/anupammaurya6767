@@ -88,7 +88,7 @@
     </tr>
   </tbody>
   </table>
-
+<hr style="border:2px solid gray"> </hr>
 <div align="center">
   <a href="https://github.com/anupammaurya6767">
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&hide_border=true&theme=" alt="anupammaurya6767" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupammaurya6767&hide_border=true&theme=" alt="anupammaurya6767" /> </p>
@@ -98,6 +98,7 @@
 </div>
   </br>
   </br>
+  <hr style="border:2px solid gray"> </hr>
   <h1 align="center">My Trophies 😁</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugeshraghav" alt="jugeshraghav"/></a> </p>
 
@@ -106,7 +107,7 @@
   <div>
      
   </div>
-  
+  <hr style="border:2px solid gray"> </hr>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
