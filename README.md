@@ -67,7 +67,7 @@
 </br>
 </br>
 <hr style="border:2px solid gray"> </hr>
-<h3>Open source projects</h3>
+<h3>Open source projects contributions</h3>
 <table>
   <thead align="center">
     <tr border: none;>
