@@ -86,6 +86,8 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
     </tr>
+  </tbody>
+  </table>
 
 <div align="center">
   <a href="https://github.com/anupammaurya6767">
