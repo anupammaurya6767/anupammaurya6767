@@ -32,7 +32,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-brightgreen?style=flat-square&logo=bootstrap&logoColor=white"/> 
-  <img alt="VScode" src="https://img.shields.io/badge/-VsCode-blue?style=flat-square&logo=v&logoColor=white"/>
+  <img alt="VScode" src="https://img.shields.io/badge/-VsCode-blue?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-success?style=flat-square&logo=express&logoColor=white"/>
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white"/>
