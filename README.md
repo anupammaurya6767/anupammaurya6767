@@ -108,12 +108,10 @@
      
   </div>
   <hr style="border:2px solid gray"> </hr>
-### 🤝🏻 &nbsp;Connect with Me
-
+🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.noobkoda.me"><img src="https://img.shields.io/badge/-noobkoda.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225"><img src="https://img.shields.io/badge/-Anupam%20Maurya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anupammaurya981@gmail.com"><img src="https://img.shields.io/badge/-anupammaurya981@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/noob_koda"><img src="https://img.shields.io/badge/-@noob_koda-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-*************
+<a href="https://g.dev/noob_koda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anupammaurya6767" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupammaurya6767" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18079843/anupam-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079843" height="30" width="40" /></a>
+<a href="https://www.instagram.com/noob_koda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupammaurya" height="30" width="40" /></a>
+
