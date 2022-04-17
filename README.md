@@ -29,41 +29,29 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="64" hight="64"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="64" hight="64"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="visualstudio_code" width="64" hight="64"> 
- <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="Javascript" width="64" hight="64"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="64" hight="64"> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="64" hight="64"> 
-</br>
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="HTML5" width="64" hight="64">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png" alt=" C++" width="64" hight="64"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="64" hight="64">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="64" hight="64">
-<img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/371265.svg" alt="Opencv" width="64" hight="64">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="64" hight="64">
-
-
-</br>
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="CSS3" width="64" hight="64">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="Jquery" width="64" hight="64">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="64" hight="64"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="64" hight="64"> 
-<img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/icons/Ros_logo.svg" alt="ROS Melodic" width="64" hight="64"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="MarkDown" width="64" hight="64"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="64" hight="64"> 
+<h3>Things I code with</h3>
+<p>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-brightgreen?style=flat-square&logo=bootstrap&logoColor=white"/> 
+  <img alt="VScode" src="https://img.shields.io/badge/-VsCode-blue?style=flat-square&logo=v&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/-Express-success?style=flat-square&logo=express&logoColor=white"/>
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-informational?style=flat-square&logo=c&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
+  <img alt="Opencv" src="https://img.shields.io/badge/-Opencv-brightgreen?style=flat-square&logo=opencv&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=C&logoColor=white"/>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="ROS" src="https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ros&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-blueviolet?style=flat-square&logo=jquery&logoColor=white"/>
+  <img alt="MYSql" src="https://img.shields.io/badge/-mySQL-orange?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-lightgrey?style=flat-square&logo=markdown&logoColor=white"/>
 </p>
-
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 <hr style="border:2px solid gray"> </hr>
