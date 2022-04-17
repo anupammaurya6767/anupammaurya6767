@@ -89,7 +89,7 @@
   </br>
   <hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Trophies 😁</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugeshraghav" alt="jugeshraghav"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupammaurya6767" alt="anupammaurya6767"/></a> </p>
 
 </br>
 </br>
