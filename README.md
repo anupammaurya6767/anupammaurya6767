@@ -75,6 +75,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/QAZIMAAZARSHAD/Apni-Dukaan"><b>Movie-Streaming-Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
   </table>
 <hr style="border:2px solid gray"> </hr>
