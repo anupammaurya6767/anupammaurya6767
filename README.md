@@ -84,15 +84,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
 <!--       <td><img alt="Language" src="https://img.shields.io/github/languages/top/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square"/></td> -->
-    </tr>
-      <tr>
-      <td><a href="https://github.com/YaninaTrekhleb/restaurant-website"><b>Restaurant-website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YaninaTrekhleb/restaurant-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/YaninaTrekhleb/restaurant-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YaninaTrekhleb/restaurant-website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YaninaTrekhleb/restaurant-website?style=flat-square&labelColor=343b41"/></td>
-<!--       <td><img alt="Language" src="https://img.shields.io/github/languages/top/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square"/></td> -->
-    </tr>
   </tbody>
   </table>
 <hr style="border:2px solid gray"> </hr>
