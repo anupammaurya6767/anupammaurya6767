@@ -114,7 +114,13 @@
   </div>
   <hr style="border:2px solid gray"> </hr>
   
-  
+  <details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=anupammaurya6767&show_icons=true&count_private=true)](https://github.com/anupammaurya6767/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=anupammaurya6767&layout=compact)](https://github.com/anupammaurya6767/github-readme-stats)
+
+</details>
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://g.dev/noob_koda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anupammaurya6767" height="30" width="40" /></a>
