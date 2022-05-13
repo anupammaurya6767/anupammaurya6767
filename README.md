@@ -115,7 +115,8 @@
   <hr style="border:2px solid gray"> </hr>
   
 
-![Metrics](https://github.com/anupammaurya6767/anupammaurya6767/blob/main/github-metrics.svg)
+![GitHub metrics](https://metrics.lecoq.io/anupammaurya6767)  
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://g.dev/noob_koda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anupammaurya6767" height="30" width="40" /></a>
