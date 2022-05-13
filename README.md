@@ -10,8 +10,7 @@
 # About ME 💬 :
 
 ### - I'm 19 years  old  Developer from India.
-
-<img alt="Night Coding" src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/Night-Coding.gif" align="right"/>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
