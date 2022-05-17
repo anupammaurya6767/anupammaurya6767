@@ -112,7 +112,7 @@
      
   </div>
   <hr style="border:2px solid gray"> </hr>
-<img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/github-metrics.svg" align="left" />
+<div align="left"><img src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/github-metrics.svg" /></div>
 </br>
 🔗 &nbsp;**Connect with me**
 <p align="left">
