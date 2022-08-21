@@ -58,8 +58,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-lightgrey?style=flat-square&logo=markdown&logoColor=white"/>
   <img alt="Tailwind Css" src="https://img.shields.io/badge/-Tailwind%20Css-critical?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/-Reactjs-blue?style=flat-square&logo=ros&logoColor=white"/>
-  <img alt="NextJS" src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=ros&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-Reactjs-blue?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="NextJS" src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next&logoColor=white"/>
 </p>
 </br>
 </br>
