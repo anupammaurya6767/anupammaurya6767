@@ -43,6 +43,7 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-success?style=flat-square&logo=express&logoColor=white"/>
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-informational?style=flat-square&logo=c&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white"/> 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
   <img alt="Opencv" src="https://img.shields.io/badge/-Opencv-brightgreen?style=flat-square&logo=opencv&logoColor=white"/>
   <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white"/>
