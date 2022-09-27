@@ -105,7 +105,6 @@
 </div>
   </br>
   </br>
-  [![@tanjirou's Holopin board](https://holopin.io/api/user/board?user=tanjirou)](https://holopin.io/@tanjirou)
   <hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Trophies 😁</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupammaurya6767" alt="anupammaurya6767"/></a> </p>
