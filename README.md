@@ -114,6 +114,7 @@
 <hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Badges 😁</h1>
 [@tanjirou's Holopin board](https://holopin.io/api/user/board?user=tanjirou)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://holopin.io/api/user/board?user=tanjirou"/></a> </p>
 
 </br>
 </br>
