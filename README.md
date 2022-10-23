@@ -113,7 +113,7 @@
 </br>
 <hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Badges 😁</h1>
-[![@tanjirou's Holopin board](https://holopin.io/api/user/board?user=tanjirou)](https://holopin.io/@tanjirou)
+[@tanjirou's Holopin board](https://holopin.io/api/user/board?user=tanjirou)
 
 </br>
 </br>
