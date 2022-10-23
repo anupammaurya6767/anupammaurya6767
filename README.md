@@ -111,7 +111,7 @@
 
 </br>
 </br>
-[![@tanjirou's Holopin board](https://holopin.me/tanjirou)](https://holopin.io/@tanjirou)
+[![@tanjirou's Holopin board](https://holopin.io/api/user/board?user=tanjirou)](https://holopin.io/@tanjirou)
   <div>
      
   </div>
