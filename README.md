@@ -107,14 +107,13 @@
   </br>
   <hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Trophies 😁</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupammaurya6767" alt="anupammaurya6767"/></a> </p>
+<p align="left"> <a href="https://github.com/anupammaurya6767"><img src="https://github-profile-trophy.vercel.app/?username=anupammaurya6767" alt="anupammaurya6767"/></a> </p>
 
 </br>
 </br>
 <hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Badges 😁</h1>
-[@tanjirou's Holopin board](https://holopin.io/api/user/board?user=tanjirou)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://holopin.io/api/user/board?user=tanjirou"/></a> </p>
+<p align="left"> <a href="https://holopin.io/@tanjirou"><img src="https://holopin.io/api/user/board?user=tanjirou"/></a> </p>
 
 </br>
 </br>
