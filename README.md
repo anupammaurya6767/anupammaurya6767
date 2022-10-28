@@ -128,5 +128,5 @@
 <a href="https://g.dev/noob_koda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anupammaurya6767" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anupam-maurya-b9a04a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupammaurya6767" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18079843/anupam-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079843" height="30" width="40" /></a>
-<a href="https://www.instagram.com/noob_koda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupammaurya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maurya_anupam_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupammaurya" height="30" width="40" /></a>
 
