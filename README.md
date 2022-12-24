@@ -98,7 +98,7 @@
 <hr style="border:2px solid gray"> </hr>
 <div align="left">
   <a href="https://github.com/anupammaurya6767">
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&hide_border=true&theme=" alt="anupammaurya6767" /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&hide_border=true&theme=" alt="anupammaurya6767" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupammaurya6767&hide_border=true&theme=" alt="anupammaurya6767" /> </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anupammaurya6767&show_icons=true&hide_border=true&theme=" alt="anupammaurya6767" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupammaurya6767&hide_border=true&theme=" alt="anupammaurya6767" /> </p>
     <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anupammaurya6767&bg_color=FFFFFF&color=000000&line=FF8C00&point=F4C430&hide_border=false" alt="anupammaurya6767" /> </p>
 <br>
   <p align="left"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupammaurya6767&layout=compact&langs_count=7&theme="/>&nbsp; </p>
