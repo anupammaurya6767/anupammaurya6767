@@ -58,6 +58,7 @@
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="24"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="24"></a>
+        <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-7952B3.svg?logo=jquery&logoColor=white" height="24"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24"></a>
     <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-02569B.svg?logo=virtualbox&logoColor=white" height="24"></a>
 </p>
