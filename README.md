@@ -10,8 +10,8 @@
 # About ME 💬 :
 
 ### - I'm 20 years  old  Developer from India.
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+<img align='right' src="https://github.com/anupammaurya6767/anupammaurya6767/blob/main/assets/img.png" width="230">
+<!--- https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Machine Learning & AI
