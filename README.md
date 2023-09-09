@@ -120,34 +120,228 @@
 <hr style="border:2px solid gray"> </hr>
 <h3>Open source projects contributions</h3>
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-<!--        <td><b>👨‍💻 Language</b></td> -->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/QAZIMAAZARSHAD/Movie-Streaming-Website"><b>Movie-Streaming-Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square&labelColor=343b41"/></td>
-<!--       <td><img alt="Language" src="https://img.shields.io/github/languages/top/QAZIMAAZARSHAD/Movie-Streaming-Website?style=flat-square"/></td> -->
-    </tr>
-     <tr>
-      <td><a href="https://github.com/QAZIMAAZARSHAD/Apni-Dukaan"><b>Apni Dukaan (E-Commerce site)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
-<!--       <td><img alt="Language" src="https://img.shields.io/github/languages/top/QAZIMAAZARSHAD/Apni-Dukaan?style=flat-square"/></td> -->
-  </tbody>
-  </table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>🎁 Projects</b></td>
+          <td><b>⭐ Stars</b></td>
+          <td><b>📚 Forks</b></td>
+          <td><b>🛎 Issues</b></td>
+          <td><b>📬 Pull requests</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/5irechain"><b>5irechain</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/5irechain?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/5irechain?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/5irechain?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/5irechain?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/anupammaurya6767"><b>anupammaurya6767</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/anupammaurya6767?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/anupammaurya6767?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/anupammaurya6767?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/anupammaurya6767?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/anupammaurya6767.github.io"><b>anupammaurya6767.github.io</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/anupammaurya6767.github.io?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/anupammaurya6767.github.io?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/anupammaurya6767.github.io?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/anupammaurya6767.github.io?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Apni-Dukaan"><b>Apni-Dukaan</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Apni-Dukaan?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Assignment"><b>Assignment</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Assignment?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Assignment?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Assignment?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Assignment?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/AUV"><b>AUV</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/AUV?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/AUV?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/AUV?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/AUV?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/AUV_WEB"><b>AUV_WEB</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/AUV_WEB?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/AUV_WEB?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/AUV_WEB?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/AUV_WEB?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Awesome_APIs"><b>Awesome_APIs</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Awesome_APIs?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Awesome_APIs?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Awesome_APIs?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Awesome_APIs?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/BFF"><b>BFF</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/BFF?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/BFF?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/BFF?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/BFF?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Bot-Collection"><b>Bot-Collection</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Bot-Collection?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Bot-Collection?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Bot-Collection?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Bot-Collection?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/camera"><b>camera</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/camera?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/camera?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/camera?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/camera?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/csb-y6kovn"><b>csb-y6kovn</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/csb-y6kovn?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/csb-y6kovn?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/csb-y6kovn?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/csb-y6kovn?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Data-Augmentation"><b>Data-Augmentation</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Data-Augmentation?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Data-Augmentation?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Data-Augmentation?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Data-Augmentation?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/DevLook"><b>DevLook</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/DevLook?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/DevLook?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/DevLook?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/DevLook?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/DragGAN"><b>DragGAN</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/DragGAN?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/DragGAN?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/DragGAN?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/DragGAN?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Dragon-Userbot"><b>Dragon-Userbot</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Dragon-Userbot?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Dragon-Userbot?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Dragon-Userbot?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Dragon-Userbot?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/DTU-AUV-NEXT"><b>DTU-AUV-NEXT</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/DTU-AUV-NEXT?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/DTU-AUV-NEXT?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/DTU-AUV-NEXT?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/DTU-AUV-NEXT?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Expresso-Blogs"><b>Expresso-Blogs</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Expresso-Blogs?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Expresso-Blogs?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Expresso-Blogs?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Expresso-Blogs?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Face-Detection-Using-OpenCV-and-CPP"><b>Face-Detection-Using-OpenCV-and-CPP</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Face-Detection-Using-OpenCV-and-CPP?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Face-Detection-Using-OpenCV-and-CPP?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Face-Detection-Using-OpenCV-and-CPP?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Face-Detection-Using-OpenCV-and-CPP?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/FakeProfileIdentifier"><b>FakeProfileIdentifier</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/FakeProfileIdentifier?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/FakeProfileIdentifier?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/FakeProfileIdentifier?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/FakeProfileIdentifier?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/git"><b>git</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/git?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/git?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/git?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/git?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/GitHub-Automation-scripts"><b>GitHub-Automation-scripts</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/GitHub-Automation-scripts?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/GitHub-Automation-scripts?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/GitHub-Automation-scripts?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/GitHub-Automation-scripts?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/green"><b>green</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/green?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/green?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/green?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/green?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Hackdefine"><b>Hackdefine</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Hackdefine?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Hackdefine?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Hackdefine?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Hackdefine?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Hackdefine-Backend"><b>Hackdefine-Backend</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Hackdefine-Backend?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Hackdefine-Backend?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Hackdefine-Backend?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Hackdefine-Backend?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Hand-Control-Computer"><b>Hand-Control-Computer</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Hand-Control-Computer?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Hand-Control-Computer?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Hand-Control-Computer?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Hand-Control-Computer?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Hawkers_world"><b>Hawkers_world</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Hawkers_world?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Hawkers_world?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Hawkers_world?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Hawkers_world?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/hoarders_mobile"><b>hoarders_mobile</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/hoarders_mobile?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/hoarders_mobile?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/hoarders_mobile?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/hoarders_mobile?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/homepage"><b>homepage</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/homepage?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/homepage?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/homepage?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/homepage?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/anupammaurya6767/Insta_auto_bot"><b>Insta_auto_bot</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/anupammaurya6767/Insta_auto_bot?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/anupammaurya6767/Insta_auto_bot?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/anupammaurya6767/Insta_auto_bot?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anupammaurya6767/Insta_auto_bot?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        </tbody>
+        </table>
 <hr style="border:2px solid gray"> </hr>
 <div align="left">
   <a href="https://github.com/anupammaurya6767"
