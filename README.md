@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 year old  Developer from India.
+### - I'm 20-year-old  Developer from India.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### - Learning :
