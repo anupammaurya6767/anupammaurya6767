@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/india/anupammaurya6767.svg)](https://user-badge.committers.top/india/anupammaurya6767)
+
 # Yā 👋
 <h1 align="center">
   <a href="https://git.io/typing-svg">
